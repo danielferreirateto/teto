@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'NettoWeb-Bold';
+  src: url('https://danielferreirateto.github.io/teto/NettoWeb-Bold.eot');
+  src: url('https://danielferreirateto.github.io/teto/NettoWeb-Bold.woff') format('woff');
+  src: url('https://danielferreirateto.github.io/teto/NettoComp-Bold.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: 'NettoWeb';
+  src: url('https://danielferreirateto.github.io/teto/NettoWeb.eot');
+  src: url('https://danielferreirateto.github.io/teto/NettoWeb.woff') format('woff');
+  src: url('https://danielferreirateto.github.io/teto/NettoComp.ttf') format('truetype');
+}
